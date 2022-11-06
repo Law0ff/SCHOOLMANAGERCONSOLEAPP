@@ -1,0 +1,16 @@
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\bin\Debug\net5.0\OkulYonetimUygulamaG031.exe
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\bin\Debug\net5.0\OkulYonetimUygulamaG031.deps.json
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\bin\Debug\net5.0\OkulYonetimUygulamaG031.runtimeconfig.json
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\bin\Debug\net5.0\OkulYonetimUygulamaG031.runtimeconfig.dev.json
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\bin\Debug\net5.0\OkulYonetimUygulamaG031.dll
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\bin\Debug\net5.0\ref\OkulYonetimUygulamaG031.dll
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\bin\Debug\net5.0\OkulYonetimUygulamaG031.pdb
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\obj\Debug\net5.0\OkulYonetimUygulamaG031.csproj.AssemblyReference.cache
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\obj\Debug\net5.0\OkulYonetimUygulamaG031.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\obj\Debug\net5.0\OkulYonetimUygulamaG031.AssemblyInfoInputs.cache
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\obj\Debug\net5.0\OkulYonetimUygulamaG031.AssemblyInfo.cs
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\obj\Debug\net5.0\OkulYonetimUygulamaG031.csproj.CoreCompileInputs.cache
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\obj\Debug\net5.0\OkulYonetimUygulamaG031.dll
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\obj\Debug\net5.0\ref\OkulYonetimUygulamaG031.dll
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\obj\Debug\net5.0\OkulYonetimUygulamaG031.pdb
+C:\Users\homeg\Desktop\Yeni klasör (3)\OkulYonetimUygulamaG031\obj\Debug\net5.0\OkulYonetimUygulamaG031.genruntimeconfig.cache
